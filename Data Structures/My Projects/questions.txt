@@ -1,0 +1,80 @@
+Which planet is known as the Red Planet?
+Venus
+Mars
+Jupiter
+Saturn
+B
+10
+1000
+Who was the first woman to win a Nobel Prize?
+Marie Curie
+Mother Teresa
+Malala Yousafzai
+Jane Addams
+A
+10
+2000
+What is the capital city of Australia?
+Sydney
+Melbourne
+Canberra
+Perth
+C
+10
+3000
+Which is the longest river in the world?
+Amazon
+Yangtze
+Mississippi
+Nile
+D
+10
+4000
+What is the chemical symbol for gold?
+Au
+Ag
+Pb
+Fe
+A
+10
+5000
+Who wrote the play "Romeo and Juliet"?
+Charles Dickens
+William Shakespeare
+George Orwell
+Mark Twain
+B
+10
+6000
+Which country is the largest by area?
+China
+Russia
+Canada
+USA
+B
+10
+7000
+In which year did India gain independence from British rule?
+1945
+1947
+1950
+1952
+B
+10
+8000
+Who invented the telephone?
+Nikola Tesla
+Alexander Graham Bell
+Thomas Edison
+Guglielmo Marconi
+B
+10
+9000
+What is the hardest natural substance on Earth?
+Iron
+Quartz
+Diamond
+Sapphire
+C
+10
+10000
