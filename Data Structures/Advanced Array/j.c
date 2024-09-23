@@ -8,9 +8,9 @@ void printSubarraySum(int arr[],int size){
         for(int j=i;j<size;j++){
             int sum=0;
             for(int k=i;k<=j;k++){
-                sum+=arr[k];
-                printf("%d ",sum);
+                sum=sum+arr[k];
             }
+            printf("%d ",sum);
             printf("\n");
         }
     }
@@ -22,3 +22,50 @@ int main(){
     printSubarraySum(arr,size);
     return 0;
 }
+/*The sum of subarrays are:
+-2
+-1
+-4
+0
+-1
+1
+2
+-3
+1
+1
+-2
+2
+1
+3
+4
+-1
+3
+-3
+1
+0
+2
+3
+-2
+2
+4
+3
+5
+6
+1
+5
+-1
+1
+2
+-3
+1
+2
+3
+-2
+2
+1
+-4
+0
+-5
+-1
+4
+*/
